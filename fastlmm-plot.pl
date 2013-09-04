@@ -1,5 +1,8 @@
 #!/usr/bin/env perl
 
+# © 2013 Matthew Vaughn
+# email: vaughn@tacc.utexas.edu
+
 use Getopt::Long;
 
 use constant kMarkerName => 0;
